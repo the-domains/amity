@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Amity]]></title>
         <description><![CDATA[Amity]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/amity/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 16:01:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 08 Mar 2016 16:15:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/amity/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>http://www.leeharrisenergy.com/</p>]]></description>
+            <link>https://thegrid.ai/amity/d7b33fbd-2d50-4c5b-ba24-0dee090c3ca6/index.html</link>
+            <guid isPermaLink="false">d7b33fbd-2d50-4c5b-ba24-0dee090c3ca6</guid>
+            <pubDate>Tue, 08 Mar 2016 16:14:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Hi there, my name is Amity. I'm a digital designer & digital marketing specialist.</p>]]></description>
-            <link>undefinedhi-there-my-name-is-amity-im-a-digital-designer-and-digital/index.html</link>
+            <link>https://thegrid.ai/amity/hi-there-my-name-is-amity-im-a-digital-designer-and-digital/index.html</link>
             <guid isPermaLink="false">742d856d-5d4b-4986-b3d8-a162b6211f02</guid>
             <pubDate>Tue, 08 Mar 2016 16:01:03 GMT</pubDate>
         </item>
